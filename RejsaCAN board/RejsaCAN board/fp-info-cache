@@ -1,4 +1,4 @@
-26643311706036148
+26646841735514665
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70195,10 +70195,24 @@ MODULE_SIM800L
 0
 88
 88
+MCP9700AT-E_LT
+SOT65P210X110-5N
+
+
+0
+5
+5
 ME2108A33P
 ME2108A33P
 
 
+0
+3
+3
+ME2807A33M3G
+ME2807A33M3G
+surface-mounted straight pin header, 1x03, 1.00mm pitch, single row, style 2 (pin 1 right)
+Surface mounted pin header SMD 1x03 1.00mm single row style2 pin1 right
 0
 3
 3
