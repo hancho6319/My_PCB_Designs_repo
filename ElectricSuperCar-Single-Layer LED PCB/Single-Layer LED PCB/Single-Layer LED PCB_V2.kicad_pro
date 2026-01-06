@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Single-Layer LED PCB.kicad_pro",
+    "filename": "Single-Layer LED PCB_V2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../../Desktop/gerber/",
+      "plot": "../../../Desktop/LEDs/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "Single-Layer LED PCB.step",
