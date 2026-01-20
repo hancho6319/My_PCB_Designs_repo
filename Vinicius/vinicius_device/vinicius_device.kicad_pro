@@ -483,13 +483,13 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "../../../Desktop/Production - Copy/3D.STEP/vinicius_device.cad",
       "idf": "",
       "netlist": "",
-      "plot": "../../../Desktop/Gerber/",
-      "pos_files": "",
+      "plot": "../../../Desktop/Production - v3/Gerber/",
+      "pos_files": "../../../Desktop/Production - v3/PickAndPlace/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../Desktop/Production - v3/3D.STEP/vinicius_device.step",
       "svg": "",
       "vrml": ""
     },

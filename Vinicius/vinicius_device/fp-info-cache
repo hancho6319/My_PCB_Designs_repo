@@ -1,4 +1,4 @@
-26675107646008938
+26682178284992878
 22-23-2061
 SHDR6W87P0X254_1X6_1509X635X11
 22-23-2061
@@ -402,6 +402,13 @@ Battery
 Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
 Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D508.PDF
 battery CR-3032 coin cell vertical
+0
+2
+2
+Battery_SMD
+Battery_TDK_CeraCharge_BCT1812M101AG_1812
+
+
 0
 2
 2
@@ -61277,6 +61284,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+EVQ-P3401P
+SW_EVQ-P3401P
+
+
+0
+6
+6
 FFC2B28-24-G
 GCT_FFC2B28-24-G
 
@@ -62362,6 +62376,13 @@ GDT 3R-6
 0
 3
 3
+GL823K
+GL823KSOP64P600X175-16N
+-40℃~+85℃ 250ps 25ns 2:1 30ns 3V~4.3V 6Ω 7.5pF 900MHz USB VSSOP-10-0.5mm Analog Switches - Special Purpose ROHS
+
+0
+16
+16
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -99525,6 +99546,13 @@ Logo WEEE
 0
 0
 0
+TL6340AF160Q
+SW_TL6340AF160Q
+
+
+0
+5
+5
 TPS7A1118PDRVR
 TPS7A1118PDRVR
 
